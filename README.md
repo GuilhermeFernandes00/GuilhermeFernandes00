@@ -1,7 +1,7 @@
-<h1 align="center">Hey there, I'm Guilherme Fernandes 👋</h1>
+<h1 align="center">Guilherme Fernandes | Data Engineer</h1>
 
 <p align="center">
-  <em>Software Developer · Open Source Enthusiast · Lifelong Learner</em>
+  <em>Python · SQL · AWS · BigQuery · Airflow · dbt</em>
 </p>
 
 <p align="center">
@@ -12,54 +12,38 @@
 
 ---
 
-### 🚀 About Me
+🎓 Formando em **Engenharia de Biossistemas** pela **USP** (Universidade de São Paulo)  
+💼 Estagiário de **Engenharia de Dados** na **Bayer Crop Science**  
+🔧 Construindo pipelines ETL, infraestrutura cloud e sistemas de qualidade de dados
 
-- 🔭 I'm currently working on exciting software projects
-- 🌱 I'm always learning new technologies and best practices
-- 👯 I'm open to collaborating on interesting open-source projects
-- 💬 Ask me about software development, architecture, and tech in general
-- 📫 How to reach me: feel free to connect via GitHub
-- ⚡ Fun fact: I believe clean code is an art form
-
----
-
-### 🛠️ Technologies & Tools
+### 🛠 Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeFernandes00&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFernandes00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🤝 Connect with Me
+### 📫 Contato
 
 <p align="left">
-  <a href="https://github.com/GuilhermeFernandes00" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-GuilhermeFernandes00-181717?style=flat-square&logo=github" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/guilherme-fernandes00">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <em>"First, solve the problem. Then, write the code." – John W. Johnson</em>
+  <a href="mailto:guilhermeaugustopf00@usp.br">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
