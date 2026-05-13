@@ -1,13 +1,7 @@
 <h1 align="center">Guilherme Fernandes | Data Engineer</h1>
 
 <p align="center">
-  <em>Python · SQL · AWS · BigQuery · Airflow · dbt</em>
-</p>
-
-<p align="center">
-  <a href="https://github.com/GuilhermeFernandes00">
-    <img src="https://komarev.com/ghpvc/?username=GuilhermeFernandes00&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <em>Transforming raw data into reliable, analytics-ready pipelines</em>
 </p>
 
 ---
@@ -16,36 +10,65 @@
 💼 Data Engineering Intern at **Bayer Crop Science**  
 🔧 Building ETL pipelines, cloud infrastructure and data quality systems
 
+---
+
 ### 🛠 Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02Ljc2MyAxMC4wMzZjMCAuMjk2LjAzMi41MzUuMDg4LjcxLjA2NC4xNzYuMTQ0LjM2OC4yNTYuNTc2LjA0LjA2My4wNTYuMTI3LjA1Ni4xODMgMCAuMDgtLjA0OC4xNi0uMTUyLjI0bC0uNTAzLjMzNWEuMzgzLjM4MyAwIDAgMS0uMjA4LjA3MmMtLjA4IDAtLjE2LS4wNC0uMjM5LS4xMTJhMi40NyAyLjQ3IDAgMCAxLS4yODctLjM3NCA2LjE4IDYuMTggMCAwIDEtLjI0OC0uNDdjLS42MjIuNzM0LTEuNDA1IDEuMTAxLTIuMzQ3IDEuMTAxLS42NyAwLTEuMjA1LS4xOTEtMS41OTYtLjU3NC0uMzkxLS4zODQtLjU5LS44OTQtLjU5LTEuNTMzIDAtLjY3OC4yMzktMS4yMy43MjYtMS42NDQuNDg3LS40MTUgMS4xMzMtLjYyMyAxLjk1NS0uNjIzLjI3MiAwIC41NTEuMDI0Ljg0Ni4wNjQuMjk2LjA0LjYuMTA0LjkxOC4xNzZ2LS41ODNjMC0uNjA3LS4xMjctMS4wMy0uMzc1LTEuMjc3LS4yNTUtLjI0OC0uNjg2LS4zNjctMS4zLS4zNjctLjI4IDAtLjU2OC4wMzEtLjg2My4xMDNhNi4zOTUgNi4zOTUgMCAwIDAtLjg2Mi4yNzlsLS4xMjguMDQ4YS40MDQuNDA0IDAgMCAxLS4xMDQuMDE2Yy0uMTI4IDAtLjE5MS0uMDg4LS4xOTEtLjI3MnYtLjM5MWMwLS4xNDQuMDE2LS4yNDguMDU2LS4zMTJhLjU4NS41ODUgMCAwIDEgLjIwOC0uMTYgNC4yMTYgNC4yMTYgMCAwIDEgLjk5OC0uMzAzYy4zODItLjA4OC43OS0uMTI4IDEuMjIzLS4xMjguOTM0IDAgMS42MTcuMjA4IDIuMDYuNjI0LjQzNi40MTYuNjU2IDEuMDQ2LjY1NiAxLjg5NHYyLjQ5MnptLTMuMjQgMS4yMTRjLjI2MyAwIC41MzUtLjA0OC44MjItLjE0NC4yODctLjA5Ni41NDMtLjI3Mi43NS0uNTE4YTEuMDcgMS4wNyAwIDAgMCAuMzI3LS41MTIgMi42IDIuNiAwIDAgMCAuMDk2LS43NTh2LS4zNjdhNi40NzggNi40NzggMCAwIDAtLjczNS0uMTM2IDUuOTc5IDUuOTc5IDAgMCAwLS43NS0uMDQ4Yy0uNTM1IDAtLjkyNi4xMDQtMS4xOS4zMi0uMjYzLjIxNi0uMzkuNTE4LS4zOS45MTggMCAuMzc1LjA5NS42NTUuMjk1Ljg0Ni4xOTEuMi40Ny4yOTUuODM1LjI5NWwtLjA2LjEwNHptNi40MS44NjJjLS4xNjcgMC0uMjc5LS4wMjQtLjM0My0uMDgtLjA2NC0uMDQ4LS4xMi0uMTYtLjE2OC0uMzExbC0xLjg3OC02LjE4YTEuMzU2IDEuMzU2IDAgMCAxLS4wOC0uMzQzYzAtLjEzNi4wNzItLjIwOC4yMDgtLjIwOGguNzgzYy4xNjggMCAuMjguMDI0LjM0NC4wOC4wNjMuMDQ4LjExMi4xNi4xNi4zMTJsMS4zNDIgNS4yODQgMS4yNDUtNS4yODRjLjA0LS4xNi4wODgtLjI2NC4xNTItLjMxMmEuNTk4LjU5OCAwIDAgMSAuMzUxLS4wOGguNjM4Yy4xNjggMCAuMjguMDI0LjM1Mi4wOC4wNjQuMDQ4LjEyLjE2LjE1Mi4zMTJsMS4yNjEgNS4zNDggMS4zODEtNS4zNDhjLjA0OC0uMTYuMTA0LS4yNjQuMTYtLjMxMmEuNTY0LjU2NCAwIDAgMSAuMzQzLS4wOGguNzQzYy4xMzYgMCAuMjE2LjA2NC4yMTYuMjA4IDAgLjA0LS4wMDguMDgtLjAxNi4xMjhhMS4yMjUgMS4yMjUgMCAwIDEtLjA2NC4yMTZsLTEuOTI1IDYuMThjLS4wNDguMTYtLjEwNC4yNjMtLjE2OC4zMTEtLjA2NC4wNTYtLjE4My4wOC0uMzQzLjA4aC0uNjg3Yy0uMTY3IDAtLjI3OS0uMDI0LS4zNDMtLjA4OC0uMDY0LS4wNTYtLjEyLS4xNi0uMTUyLS4zMmwtMS4yMzctNS4xNC0xLjIzIDUuMTMyYy0uMDQuMTY4LS4wODguMjcyLS4xNTIuMzI4LS4wNjQuMDY0LS4xODMuMDg4LS4zNTEuMDg4aC0uNjg3bC0uMDA5LS4wMDh6bTEwLjI1Mi4yNjNhNC43NCA0Ljc0IDAgMCAxLTEuMTAzLS4xMiAzLjI5IDMuMjkgMCAwIDEtLjgwNi0uMjZjLS4xMjgtLjA3My0uMjE1LS4xNTItLjI0Ny0uMjI0YS41NjcuNTY3IDAgMCAxLS4wNDgtLjIyNHYtLjQwN2MwLS4xODQuMDcyLS4yNzIuMjA4LS4yNzJhLjUxMy41MTMgMCAwIDEgLjE2LjAyNGMuMDQ4LjAxNi4xMi4wNDguMi4wOC4yNzEuMTIuNTY2LjIxNi44NzguMjguMzE5LjA2NC42My4wOTYuOTUuMDk2LjUwMiAwIC44OTQtLjA4OCAxLjE2NS0uMjY0YS44Ni44NiAwIDAgMCAuNDE1LS43NTguNzc3Ljc3NyAwIDAgMC0uMjE1LS41NTljLS4xNDQtLjE1Mi0uNDE1LS4yODgtLjgwNi0uNDE2bC0xLjE1OC0uMzZjLS41ODMtLjE4My0xLjAxNC0uNDU2LTEuMjc3LS44MTJhMS45MzYgMS45MzYgMCAwIDEtLjM5MS0xLjE2MmMwLS4zMzUuMDcyLS42My4yMTYtLjg4Ni4xNDQtLjI1Ni4zMzUtLjQ4LjU3NS0uNjU2LjI0LS4xODQuNTExLS4zMi44My0uNDA4LjMyLS4wODguNjU0LS4xMjggMS4wMDYtLjEyOC4xNzYgMCAuMzU5LjAwOC41MzUuMDMyLjE4NC4wMjQuMzUxLjA1Ni41MTkuMDg4LjE2LjA0LjMxMi4wOC40NTUuMTI4LjE0NC4wNDguMjU2LjA5Ni4zMzYuMTQ0YS43MS43MSAwIDAgMSAuMjQuMmMuMDQ4LjA2NC4wNzIuMTUyLjA3Mi4yNzJ2LjM3NWMwIC4xODQtLjA3Mi4yOC0uMjA4LjI4YS45NTguOTU4IDAgMCAxLS4zNTEtLjEyIDQuMjQgNC4yNCAwIDAgMC0xLjc3NC0uMzc2Yy0uNDU1IDAtLjgxNC4wNzItMS4wNjIuMjI0LS4yNDguMTUyLS4zNzUuMzgzLS4zNzUuNzEgMCAuMjI0LjA4LjQxNi4yNDguNTY3LjE2OC4xNTIuNDc5LjMwNC45MjYuNDRsMS4xMzQuMzU4Yy41NzUuMTg0Ljk5OC40NCAxLjI1NC43NjguMjU1LjMyOC4zODMuNzAyLjM4MyAxLjExOCAwIC4zNDMtLjA3Mi42NTUtLjIwNy45MjZhMi4xNiAyLjE2IDAgMCAxLS41NzUuNzFjLS4yNDcuMi0uNTQzLjM1Mi0uODg2LjQ0OC0uMzUyLjEwNC0uNzI3LjE1Mi0xLjEzNC4xNTJsLjAwNC0uMDA5ek0yMS42OTggMTYuMjA3Yy0yLjYyNiAxLjk0LTYuNDQyIDIuOTcyLTkuNzIyIDIuOTcyLTQuNTk4IDAtOC43NC0xLjctMTEuODctNC41MjYtLjI0Ny0uMjI0LS4wMjUtLjUyNy4yNzEtLjM1MiAzLjM4NCAxLjk2MyA3LjU1OSAzLjE1MyAxMS44NzcgMy4xNTMgMi45MTQgMCA2LjExNC0uNjA3IDkuMDYtMS44NTIuNDM5LS4yLjgxNC4yODguMzg0LjYwNXpNMjIuNzkyIDE0Ljk2MWMtLjMzNi0uNDMxLTIuMjI3LS4yMDctMy4wOC0uMTAzLS4yNTYuMDMyLS4yOTUtLjE5Mi0uMDYzLS4zNiAxLjUwOS0xLjA2MiAzLjk4NC0uNzU0IDQuMjcyLS4zOTkuMjk2LjM2LS4wOCAyLjgzNi0xLjQ5MyA0LjAxOS0uMjE2LjE4My0uNDIzLjA4OC0uMzI3LS4xNTIuMzE5LS43OSAxLjAzLTIuNTguNjk1LTMuMDA1eiIvPjwvc3ZnPg==&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/-Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <br/>
   <img src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MSA5MCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik04Ni4xOSAzLjc0Qzg4LjMyIDUuNzYgODkuNjcgOC40NyA5MCAxMS4zOUM4OS45NyAxMi42NiA4OS42MyAxMy45IDg5IDE1Qzg4LjI2IDE2LjU0IDc5LjIzIDMyLjE3IDc2LjU0IDM2LjQ4Qzc1IDM5LjA0IDc0LjE4IDQxLjk3IDc0LjE4IDQ0Ljk1Qzc0LjE3IDQ3LjkzIDc0Ljk5IDUwLjg2IDc2LjU0IDUzLjQxQzc5LjE5IDU3LjcgODguMjIgNzMuNDEgODkgNzVDODkuNjEgNzYuMDUgODkuOTYgNzcuMjQgOTAgNzguNDZDODkuNjIgODEuMzIgODguMzEgODMuOTggODYuMjYgODYuMDNDODQuMjIgODguMDcgODEuNTYgODkuMzkgNzguNyA4OS43N0M3Ny40NiA4OS43MyA3Ni4yNSA4OS4zNiA3NS4yIDg4LjcxQzczLjc0IDg4IDU3Ljc5IDc5LjE5IDUzLjQ3IDc2LjVDNTMuMTUgNzYuMzQgNTIuODIgNzYuMSA1Mi40MSA3NS45M0wzMS4wOSA2My4zMkMzMS41NSA2Ny40MSAzMy4zOCA3MS4yMyAzNi4zIDc0LjE0QzM2Ljg2IDc0LjcgMzcuNDYgNzUuMjIgMzguMDkgNzUuNjlDMzcuNTYgNzUuOTMgMzcuMDQgNzYuMiAzNi41NCA3Ni41QzMyLjIzIDc5LjE5IDE2LjUyIDg0LjIyIDE1IDg5QzEzLjkgODkuNjQgMTIuNjYgODkuOTggMTEuMzkgOTBDOC41IDg5LjcxIDUuODEgODguMzggMy44MyA4Ni4yNkMxLjcgODQuMjQuMzQgODEuNTQgMCA3OC42MkMuMDYgNzcuMzguNDMgNzYuMTggMS4wNiA3NS4xMkMxLjc5IDczLjU3IDEwLjgyIDU3Ljg3IDEzLjUxIDUzLjU1QzE1LjA2IDUxIDE1Ljg4IDQ4LjA3IDE1Ljg3IDQ1LjA5QzE1Ljg4IDQyLjEgMTUuMDYgMzkuMTcgMTMuNTEgMzYuNjJDMTAuODIgMzIuMTUgMS43MSAxNi40NCAxLjA2IDE0Ljg5Qy40MyAxMy44My4wNiAxMi42MyAwIDExLjM5Qy4zMSA4LjQ4IDEuNjQgNS43NyAzLjc0IDMuNzRDNS43NyAxLjY0IDguNDguMzEgMTEuMzkgMEMxMi42Ni4wNyAxMy44OS40MyAxNSAxLjA2QzE2LjMgMS42MyAyNy43NyA4LjMgMzMuODggMTEuODhMMzUuMjYgMTIuN0MzNS42NSAxMi45NiAzNi4wNiAxMy4yMSAzNi40OCAxMy40M0wzNy4xMyAxMy44NEw1OC44NCAyNi43QzU4LjU5IDI0LjI4IDU3Ljg1IDIxLjkzIDU2LjY2IDE5LjhDNTUuNDcgMTcuNjcgNTMuODYgMTUuODEgNTEuOTMgMTQuMzJDNTIuNDYgMTQuMDggNTIuOTcgMTMuODEgNTMuNDcgMTMuNTFDNTcuNzkgMTAuODIgNzMuNDcgMS43MSA3NS4wNCAxLjA2Qzc2LjEzLjQyIDc3LjM2LjA1IDc4LjYyIDBDODEuNS4zMyA4NC4xOCAxLjY1IDg2LjE5IDMuNzRaTTQ2LjE5IDUwLjc5TDUwLjgzIDQ2LjE1QzUwLjk4IDQ2IDUxLjExIDQ1LjgzIDUxLjE5IDQ1LjYzQzUxLjI3IDQ1LjQzIDUxLjMyIDQ1LjIyIDUxLjMyIDQ1LjAxQzUxLjMyIDQ0LjggNTEuMjcgNDQuNTkgNTEuMTkgNDQuMzlDNTEuMTEgNDQuMTkgNTAuOTggNDQuMDIgNTAuODMgNDMuODdMNDYuMTkgMzkuMjNDNDYuMDQgMzkuMDggNDUuODcgMzguOTUgNDUuNjcgMzguODdDNDUuNDcgMzguNzkgNDUuMjYgMzguNzQgNDUuMDUgMzguNzRDNDQuODQgMzguNzQgNDQuNjMgMzguNzkgNDQuNDMgMzguODdDNDQuMjMgMzguOTUgNDQuMDYgMzkuMDggNDMuOTEgMzkuMjNMMzkuMjcgNDMuODdDMzkuMTIgNDQuMDIgMzguOTkgNDQuMTkgMzguOTEgNDQuMzlDMzguODMgNDQuNTkgMzguNzggNDQuOCAzOC43OCA0NS4wMUMzOC43OCA0NS4yMiAzOC44MyA0NS40MyAzOC45MSA0NS42M0MzOC45OSA0NS44MyAzOS4xMiA0NiAzOS4yNyA0Ni4xNUw0My45MSA1MC43OUM0NC4yMiA1MS4wNiA0NC42MiA1MS4yIDQ1LjAzIDUxLjJDNDUuNDQgNTEuMiA0NS44NCA1MS4wNiA0Ni4xNSA1MC43OUg0Ni4xOVoiLz48L3N2Zz4=&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <br/>
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats-lilac-six-70.vercel.app/api?username=GuilhermeFernandes00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeFernandes00&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📫 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/guilherme-fernandes00">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:guilhermeaugustopf00@usp.br">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://www.linkedin.com/in/guilherme-fernandes00">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:guilhermeaugustopf00@usp.br">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=GuilhermeFernandes00&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
