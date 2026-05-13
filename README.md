@@ -34,24 +34,9 @@
 
 ### ⚙️ GitHub Analytics
 
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats-lilac-six-70.vercel.app/api?username=GuilhermeFernandes00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=GuilhermeFernandes00&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=GuilhermeFernandes00&theme=dark&hide_border=false&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+</p>
 
 ---
 
