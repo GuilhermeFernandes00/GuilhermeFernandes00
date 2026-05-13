@@ -24,15 +24,15 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery" />
+  <br/>
+  <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <br/>
+  <img src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
   <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  &nbsp;&nbsp;
+  <br/>
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
