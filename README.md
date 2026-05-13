@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik02Ljc2MyAxMC4wMzZjMCAuMjk2LjAzMi41MzUuMDg4LjcxLjA2NC4xNzYuMTQ0LjM2OC4yNTYuNTc2LjA0LjA2My4wNTYuMTI3LjA1Ni4xODMgMCAuMDgtLjA0OC4xNi0uMTUyLjI0bC0uNTAzLjMzNWEuMzgzLjM4MyAwIDAgMS0uMjA4LjA3MmMtLjA4IDAtLjE2LS4wNC0uMjM5LS4xMTJhMi40NyAyLjQ3IDAgMCAxLS4yODctLjM3NCA2LjE4IDYuMTggMCAwIDEtLjI0OC0uNDdjLS42MjIuNzM0LTEuNDA1IDEuMTAxLTIuMzQ3IDEuMTAxLS42NyAwLTEuMjA1LS4xOTEtMS41OTYtLjU3NC0uMzkxLS4zODQtLjU5LS44OTQtLjU5LTEuNTMzIDAtLjY3OC4yMzktMS4yMy43MjYtMS42NDQuNDg3LS40MTUgMS4xMzMtLjYyMyAxLjk1NS0uNjIzLjI3MiAwIC41NTEuMDI0Ljg0Ni4wNjQuMjk2LjA0LjYuMTA0LjkxOC4xNzZ2LS41ODNjMC0uNjA3LS4xMjctMS4wMy0uMzc1LTEuMjc3LS4yNTUtLjI0OC0uNjg2LS4zNjctMS4zLS4zNjctLjI4IDAtLjU2OC4wMzEtLjg2My4xMDNhNi4zOTUgNi4zOTUgMCAwIDAtLjg2Mi4yNzlsLS4xMjguMDQ4YS40MDQuNDA0IDAgMCAxLS4xMDQuMDE2Yy0uMTI4IDAtLjE5MS0uMDg4LS4xOTEtLjI3MnYtLjM5MWMwLS4xNDQuMDE2LS4yNDguMDU2LS4zMTJhLjU4NS41ODUgMCAwIDEgLjIwOC0uMTYgNC4yMTYgNC4yMTYgMCAwIDEgLjk5OC0uMzAzYy4zODItLjA4OC43OS0uMTI4IDEuMjIzLS4xMjguOTM0IDAgMS42MTcuMjA4IDIuMDYuNjI0LjQzNi40MTYuNjU2IDEuMDQ2LjY1NiAxLjg5NHYyLjQ5MnptLTMuMjQgMS4yMTRjLjI2MyAwIC41MzUtLjA0OC44MjItLjE0NC4yODctLjA5Ni41NDMtLjI3Mi43NS0uNTE4YTEuMDcgMS4wNyAwIDAgMCAuMzI3LS41MTIgMi42IDIuNiAwIDAgMCAuMDk2LS43NTh2LS4zNjdhNi40NzggNi40NzggMCAwIDAtLjczNS0uMTM2IDUuOTc5IDUuOTc5IDAgMCAwLS43NS0uMDQ4Yy0uNTM1IDAtLjkyNi4xMDQtMS4xOS4zMi0uMjYzLjIxNi0uMzkuNTE4LS4zOS45MTggMCAuMzc1LjA5NS42NTUuMjk1Ljg0Ni4xOTEuMi40Ny4yOTUuODM1LjI5NWwtLjA2LjEwNHptNi40MS44NjJjLS4xNjcgMC0uMjc5LS4wMjQtLjM0My0uMDgtLjA2NC0uMDQ4LS4xMi0uMTYtLjE2OC0uMzExbC0xLjg3OC02LjE4YTEuMzU2IDEuMzU2IDAgMCAxLS4wOC0uMzQzYzAtLjEzNi4wNzItLjIwOC4yMDgtLjIwOGguNzgzYy4xNjggMCAuMjguMDI0LjM0NC4wOC4wNjMuMDQ4LjExMi4xNi4xNi4zMTJsMS4zNDIgNS4yODQgMS4yNDUtNS4yODRjLjA0LS4xNi4wODgtLjI2NC4xNTItLjMxMmEuNTk4LjU5OCAwIDAgMSAuMzUxLS4wOGguNjM4Yy4xNjggMCAuMjguMDI0LjM1Mi4wOC4wNjQuMDQ4LjEyLjE2LjE1Mi4zMTJsMS4yNjEgNS4zNDggMS4zODEtNS4zNDhjLjA0OC0uMTYuMTA0LS4yNjQuMTYtLjMxMmEuNTY0LjU2NCAwIDAgMSAuMzQzLS4wOGguNzQzYy4xMzYgMCAuMjE2LjA2NC4yMTYuMjA4IDAgLjA0LS4wMDguMDgtLjAxNi4xMjhhMS4yMjUgMS4yMjUgMCAwIDEtLjA2NC4yMTZsLTEuOTI1IDYuMThjLS4wNDguMTYtLjEwNC4yNjMtLjE2OC4zMTEtLjA2NC4wNTYtLjE4My4wOC0uMzQzLjA4aC0uNjg3Yy0uMTY3IDAtLjI3OS0uMDI0LS4zNDMtLjA4OC0uMDY0LS4wNTYtLjEyLS4xNi0uMTUyLS4zMmwtMS4yMzctNS4xNC0xLjIzIDUuMTMyYy0uMDQuMTY4LS4wODguMjcyLS4xNTIuMzI4LS4wNjQuMDY0LS4xODMuMDg4LS4zNTEuMDg4aC0uNjg3bC0uMDA5LS4wMDh6bTEwLjI1Mi4yNjNhNC43NCA0Ljc0IDAgMCAxLTEuMTAzLS4xMiAzLjI5IDMuMjkgMCAwIDEtLjgwNi0uMjZjLS4xMjgtLjA3My0uMjE1LS4xNTItLjI0Ny0uMjI0YS41NjcuNTY3IDAgMCAxLS4wNDgtLjIyNHYtLjQwN2MwLS4xODQuMDcyLS4yNzIuMjA4LS4yNzJhLjUxMy41MTMgMCAwIDEgLjE2LjAyNGMuMDQ4LjAxNi4xMi4wNDguMi4wOC4yNzEuMTIuNTY2LjIxNi44NzguMjguMzE5LjA2NC42My4wOTYuOTUuMDk2LjUwMiAwIC44OTQtLjA4OCAxLjE2NS0uMjY0YS44Ni44NiAwIDAgMCAuNDE1LS43NTguNzc3Ljc3NyAwIDAgMC0uMjE1LS41NTljLS4xNDQtLjE1Mi0uNDE1LS4yODgtLjgwNi0uNDE2bC0xLjE1OC0uMzZjLS41ODMtLjE4My0xLjAxNC0uNDU2LTEuMjc3LS44MTJhMS45MzYgMS45MzYgMCAwIDEtLjM5MS0xLjE2MmMwLS4zMzUuMDcyLS42My4yMTYtLjg4Ni4xNDQtLjI1Ni4zMzUtLjQ4LjU3NS0uNjU2LjI0LS4xODQuNTExLS4zMi44My0uNDA4LjMyLS4wODguNjU0LS4xMjggMS4wMDYtLjEyOC4xNzYgMCAuMzU5LjAwOC41MzUuMDMyLjE4NC4wMjQuMzUxLjA1Ni41MTkuMDg4LjE2LjA0LjMxMi4wOC40NTUuMTI4LjE0NC4wNDguMjU2LjA5Ni4zMzYuMTQ0YS43MS43MSAwIDAgMSAuMjQuMmMuMDQ4LjA2NC4wNzIuMTUyLjA3Mi4yNzJ2LjM3NWMwIC4xODQtLjA3Mi4yOC0uMjA4LjI4YS45NTguOTU4IDAgMCAxLS4zNTEtLjEyIDQuMjQgNC4yNCAwIDAgMC0xLjc3NC0uMzc2Yy0uNDU1IDAtLjgxNC4wNzItMS4wNjIuMjI0LS4yNDguMTUyLS4zNzUuMzgzLS4zNzUuNzEgMCAuMjI0LjA4LjQxNi4yNDguNTY3LjE2OC4xNTIuNDc5LjMwNC45MjYuNDRsMS4xMzQuMzU4Yy41NzUuMTg0Ljk5OC40NCAxLjI1NC43NjguMjU1LjMyOC4zODMuNzAyLjM4MyAxLjExOCAwIC4zNDMtLjA3Mi42NTUtLjIwNy45MjZhMi4xNiAyLjE2IDAgMCAxLS41NzUuNzFjLS4yNDcuMi0uNTQzLjM1Mi0uODg2LjQ0OC0uMzUyLjEwNC0uNzI3LjE1Mi0xLjEzNC4xNTJsLjAwNC0uMDA5ek0yMS42OTggMTYuMjA3Yy0yLjYyNiAxLjk0LTYuNDQyIDIuOTcyLTkuNzIyIDIuOTcyLTQuNTk4IDAtOC43NC0xLjctMTEuODctNC41MjYtLjI0Ny0uMjI0LS4wMjUtLjUyNy4yNzEtLjM1MiAzLjM4NCAxLjk2MyA3LjU1OSAzLjE1MyAxMS44NzcgMy4xNTMgMi45MTQgMCA2LjExNC0uNjA3IDkuMDYtMS44NTIuNDM5LS4yLjgxNC4yODguMzg0LjYwNXpNMjIuNzkyIDE0Ljk2MWMtLjMzNi0uNDMxLTIuMjI3LS4yMDctMy4wOC0uMTAzLS4yNTYuMDMyLS4yOTUtLjE5Mi0uMDYzLS4zNiAxLjUwOS0xLjA2MiAzLjk4NC0uNzU0IDQuMjcyLS4zOTkuMjk2LjM2LS4wOCAyLjgzNi0xLjQ5MyA0LjAxOS0uMjE2LjE4My0uNDIzLjA4OC0uMzI3LS4xNTIuMzE5LS43OSAxLjAzLTIuNTguNjk1LTMuMDA1eiIvPjwvc3ZnPg==&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/-Google_BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
@@ -57,18 +57,12 @@
 
 ### 📫 Contact
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://www.linkedin.com/in/guilherme-fernandes00">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-      <a href="mailto:guilhermeaugustopf00@usp.br">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=GuilhermeFernandes00&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://www.linkedin.com/in/guilherme-fernandes00">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:guilhermeaugustopf00@usp.br">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=GuilhermeFernandes00&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
