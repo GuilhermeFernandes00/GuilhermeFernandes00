@@ -12,9 +12,9 @@
 
 ---
 
-🎓 Formando em **Engenharia de Biossistemas** pela **USP** (Universidade de São Paulo)  
-💼 Estagiário de **Engenharia de Dados** na **Bayer Crop Science**  
-🔧 Construindo pipelines ETL, infraestrutura cloud e sistemas de qualidade de dados
+🎓 Biosystems Engineering graduate from **USP** (University of São Paulo)  
+💼 Data Engineering Intern at **Bayer Crop Science**  
+🔧 Building ETL pipelines, cloud infrastructure and data quality systems
 
 ### 🛠 Stack
 
@@ -24,20 +24,22 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="BigQuery" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
   <img src="https://img.shields.io/badge/-dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/guilherme-fernandes00">
